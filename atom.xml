@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-12-09T09:33:18.761Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new theme</title>
+    <link href="http://example.com/2021/12/08/new-theme/"/>
+    <id>http://example.com/2021/12/08/new-theme/</id>
+    <published>2021-12-08T13:52:31.000Z</published>
+    <updated>2021-12-09T09:33:18.761Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="new-theme"><a href="#new-theme" class="headerlink" title="new theme"></a>new theme</h1><h2 id="git-clone"><a href="#git-clone" class="headerlink" title="git clone"></a>git clone</h2><p>git clone 克隆的地址.git 位置 themes.名字<br>注意 git clone <a href="https://github.com/litten/hexo-theme-yilia.git">https://github.com/litten/hexo-theme-yilia.git</a> themes.yilia 中的https 改为 git<br>git clone git://github.com/litten/hexo-theme-yilia.git themes/yilia</p><hr><h2 id="set-new-themes-into-blog"><a href="#set-new-themes-into-blog" class="headerlink" title="set new themes into blog"></a>set new themes into blog</h2><h3 id="change-the-file-named-config-yml"><a href="#change-the-file-named-config-yml" class="headerlink" title="change the file named _config.yml"></a>change the file named _config.yml</h3><p>find theme and change theme name with your new theme’s name<br>theme: yilia</p><h2 id="put-into-github-推到远端"><a href="#put-into-github-推到远端" class="headerlink" title="put into github 推到远端"></a>put into github 推到远端</h2><p>首先<br>hexo clean<br>hexo g<br>hexo s<br>最后<br>hexo d</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;new-theme&quot;&gt;&lt;a href=&quot;#new-theme&quot; class=&quot;headerlink&quot; title=&quot;new theme&quot;&gt;&lt;/a&gt;new theme&lt;/h1&gt;&lt;h2 id=&quot;git-clone&quot;&gt;&lt;a href=&quot;#git-clone&quot; class</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>link to github</title>
+    <link href="http://example.com/2021/12/08/link-to-github/"/>
+    <id>http://example.com/2021/12/08/link-to-github/</id>
+    <published>2021-12-08T13:27:38.000Z</published>
+    <updated>2021-12-08T13:46:46.815Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-远端：github"><a href="#1-远端：github" class="headerlink" title="1.远端：github"></a>1.远端：github</h2><h3 id="1-1创建仓库"><a href="#1-1创建仓库" class="headerlink" title="1.1创建仓库"></a>1.1创建仓库</h3><p>注意：路径格式：你的用户名.github.io</p><hr><h2 id="2-本地：blog-文件夹下"><a href="#2-本地：blog-文件夹下" class="headerlink" title="2.本地：blog 文件夹下"></a>2.本地：blog 文件夹下</h2><h3 id="2-1-安装插件"><a href="#2-1-安装插件" class="headerlink" title="2.1 安装插件"></a>2.1 安装插件</h3><p>cnpm install –save hexo-deployer-git</p><h3 id="2-2-设置-config-yml-文件"><a href="#2-2-设置-config-yml-文件" class="headerlink" title="2.2 设置 _config.yml 文件"></a>2.2 设置 _config.yml 文件</h3><p>vscode中 打开这个文件，在这个文件最下面找到Deployment</p><h4 id="2-2-1-改type-‘git’"><a href="#2-2-1-改type-‘git’" class="headerlink" title="2.2.1 改type: ‘git’"></a>2.2.1 改type: ‘git’</h4><h4 id="2-2-2-加repo"><a href="#2-2-2-加repo" class="headerlink" title="2.2.2 加repo"></a>2.2.2 加repo</h4><p>repo: ‘仓库地址’</p><h4 id="2-2-3-加branch"><a href="#2-2-3-加branch" class="headerlink" title="2.2.3 加branch"></a>2.2.3 加branch</h4><p>branch: ‘master’</p><hr><h2 id="3-部署到远端"><a href="#3-部署到远端" class="headerlink" title="3.部署到远端"></a>3.部署到远端</h2><p>hexo d</p><p>输入用户名、密码，然后授权</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-远端：github&quot;&gt;&lt;a href=&quot;#1-远端：github&quot; class=&quot;headerlink&quot; title=&quot;1.远端：github&quot;&gt;&lt;/a&gt;1.远端：github&lt;/h2&gt;&lt;h3 id=&quot;1-1创建仓库&quot;&gt;&lt;a href=&quot;#1-1创建仓库&quot; c</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>start hexo</title>
+    <link href="http://example.com/2021/12/08/start-hexo/"/>
+    <id>http://example.com/2021/12/08/start-hexo/</id>
+    <published>2021-12-08T12:59:23.000Z</published>
+    <updated>2021-12-08T13:17:35.734Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-cd-the-url-of-hexo"><a href="#1-cd-the-url-of-hexo" class="headerlink" title="1. cd the url of hexo"></a>1. cd the url of hexo</h2><p>cd the url of hexo</p><hr><h2 id="2-hexo-s"><a href="#2-hexo-s" class="headerlink" title="2. hexo s"></a>2. hexo s</h2><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-cd-the-url-of-hexo&quot;&gt;&lt;a href=&quot;#1-cd-the-url-of-hexo&quot; class=&quot;headerlink&quot; title=&quot;1. cd the url of hexo&quot;&gt;&lt;/a&gt;1. cd the url of hexo&lt;/h2</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>how does hexo write an article？</title>
+    <link href="http://example.com/2021/12/08/how-to-use-hexo/"/>
+    <id>http://example.com/2021/12/08/how-to-use-hexo/</id>
+    <published>2021-12-08T12:52:08.000Z</published>
+    <updated>2021-12-08T13:22:53.182Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-创建新的文件"><a href="#1-创建新的文件" class="headerlink" title="1.创建新的文件"></a>1.创建新的文件</h2><p>hexo n  + 文章名</p><hr><h2 id="2-编写内容"><a href="#2-编写内容" class="headerlink" title="2.编写内容"></a>2.编写内容</h2><p>最好使用 markdown 格式</p><hr><h2 id="3-清理缓存文件"><a href="#3-清理缓存文件" class="headerlink" title="3.清理缓存文件"></a>3.清理缓存文件</h2><p>hexo clean</p><hr><h2 id="4-生成静态文件"><a href="#4-生成静态文件" class="headerlink" title="4.生成静态文件"></a>4.生成静态文件</h2><p>hexo g</p><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-创建新的文件&quot;&gt;&lt;a href=&quot;#1-创建新的文件&quot; class=&quot;headerlink&quot; title=&quot;1.创建新的文件&quot;&gt;&lt;/a&gt;1.创建新的文件&lt;/h2&gt;&lt;p&gt;hexo n  + 文章名&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;2-编写内容&quot;&gt;&lt;a href</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <link href="http://example.com/2021/12/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2021/12/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+    <published>2021-12-08T12:32:46.000Z</published>
+    <updated>2021-12-08T12:46:55.084Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>啊啊啊啊水水水水水水水</p><hr><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>啊啊啊啊啊啊啊啊啊啊</p><hr><h2 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h2><p>啊啊啊啊啊啊啊啊啊啊</p><hr><h2 id="第四章"><a href="#第四章" class="headerlink" title="第四章"></a>第四章</h2><p>啊啊啊啊啊啊啊啊啊啊</p><hr><p>参考文献</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;啊啊啊啊水水水水水水水&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;第二章&quot;&gt;&lt;a href=&quot;#第二章&quot; class=&quot;headerlink</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/12/08/hello-world/"/>
+    <id>http://example.com/2021/12/08/hello-world/</id>
+    <published>2021-12-08T12:25:49.734Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
