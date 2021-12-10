@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Gooooooooooood</title>
-  
+  <icon>https://www.gravatar.com/avatar/eb4ac5c946da3c1711e5ecff20d94b87</icon>
   
   <link href="https://xuduokuaile.github.io/atom.xml" rel="self"/>
   
   <link href="https://xuduokuaile.github.io/"/>
-  <updated>2021-12-09T09:33:18.761Z</updated>
+  <updated>2021-12-10T06:39:07.073Z</updated>
   <id>https://xuduokuaile.github.io/</id>
   
   <author>
     <name>Xu</name>
-    
+    <email>1361696007@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -21,7 +21,7 @@
     <link href="https://xuduokuaile.github.io/2021/12/08/new-theme/"/>
     <id>https://xuduokuaile.github.io/2021/12/08/new-theme/</id>
     <published>2021-12-08T13:52:31.000Z</published>
-    <updated>2021-12-09T09:33:18.761Z</updated>
+    <updated>2021-12-10T06:39:07.073Z</updated>
     
     <content type="html"><![CDATA[<h1 id="new-theme"><a href="#new-theme" class="headerlink" title="new theme"></a>new theme</h1><h2 id="git-clone"><a href="#git-clone" class="headerlink" title="git clone"></a>git clone</h2><p>git clone 克隆的地址.git 位置 themes.名字<br>注意 git clone <a href="https://github.com/litten/hexo-theme-yilia.git">https://github.com/litten/hexo-theme-yilia.git</a> themes.yilia 中的https 改为 git<br>git clone git://github.com/litten/hexo-theme-yilia.git themes/yilia</p><hr><h2 id="set-new-themes-into-blog"><a href="#set-new-themes-into-blog" class="headerlink" title="set new themes into blog"></a>set new themes into blog</h2><h3 id="change-the-file-named-config-yml"><a href="#change-the-file-named-config-yml" class="headerlink" title="change the file named _config.yml"></a>change the file named _config.yml</h3><p>find theme and change theme name with your new theme’s name<br>theme: yilia</p><h2 id="put-into-github-推到远端"><a href="#put-into-github-推到远端" class="headerlink" title="put into github 推到远端"></a>put into github 推到远端</h2><p>首先<br>hexo clean<br>hexo g<br>hexo s<br>最后<br>hexo d</p>]]></content>
     
