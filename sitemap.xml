@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://xuduokuaile.github.io/catogories/index.html</loc>
+    
+    <lastmod>2021-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xuduokuaile.github.io/2021/12/08/new-theme/</loc>
     
     <lastmod>2021-12-10</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://xuduokuaile.github.io/link/index.html</loc>
-    
-    <lastmod>2021-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xuduokuaile.github.io/catogories/index.html</loc>
     
     <lastmod>2021-12-09</lastmod>
     
@@ -94,12 +94,19 @@
 
   <url>
     <loc>https://xuduokuaile.github.io/</loc>
-    <lastmod>2021-12-10</lastmod>
+    <lastmod>2021-12-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
+  
+  <url>
+    <loc>https://xuduokuaile.github.io/categories/English-Learning/</loc>
+    <lastmod>2021-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
