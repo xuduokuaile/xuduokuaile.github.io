@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xuduokuaile.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xuduokuaile.github.io/tages/index.html</loc>
+    
+    <lastmod>2021-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xuduokuaile.github.io/about/index.html</loc>
+    
+    <lastmod>2021-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xuduokuaile.github.io/music/index.html</loc>
+    
+    <lastmod>2021-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xuduokuaile.github.io/Gallery/index.html</loc>
+    
+    <lastmod>2021-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xuduokuaile.github.io/movies/index.html</loc>
+    
+    <lastmod>2021-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xuduokuaile.github.io/2021/12/13/Translation/</loc>
     
     <lastmod>2021-12-16</lastmod>
@@ -67,7 +121,7 @@
 
   <url>
     <loc>https://xuduokuaile.github.io/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -77,14 +131,14 @@
   
   <url>
     <loc>https://xuduokuaile.github.io/categories/English-Learning/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xuduokuaile.github.io/categories/Hexo/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
